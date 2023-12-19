@@ -1,0 +1,32 @@
+{
+  "name": "kenedy-autcomplx",
+  "description": "",
+  "version": "0.0.1",
+  "keywords": [],
+  "author": {
+    "name": "Kenedy Nopriansyah",
+    "email": "kenedinovriansyah@gmail.com",
+    "url": "https://www.linkedin.com/in/kenedy-nopriansyah-b5864a200/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solodevasia/rootkit.git"
+  },
+  "engines": {
+    "node": "v20.10.0",
+    "npm": "10.2.3"
+  },
+  "os": [
+    "darwin",
+    "linux"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.10.4",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "i18next": "^23.7.8",
+    "i18next-resources-to-backend": "^1.2.0"
+  }
+}
